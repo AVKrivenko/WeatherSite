@@ -1,5 +1,5 @@
 ![Screenshot ](https://github.com/AVKrivenko/WeatherSite/blob/main/weather.png)
-weather.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
