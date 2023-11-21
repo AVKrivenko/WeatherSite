@@ -1,5 +1,5 @@
-![Screenshot ](https://github.com/AVKrivenko/Shop/commit/70f095a2624e750250990e06f496e80af71cce9a)
-
+![Screenshot ](https://github.com/AVKrivenko/Shop/commit/70f095a2624e750250990e06f496e80af71cce9a/weather.png)
+weather.png
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
