@@ -1,4 +1,4 @@
-![Screenshot ](https://github.com/AVKrivenko/Shop/commit/70f095a2624e750250990e06f496e80af71cce9a/weather.png)
+![Screenshot ](https://github.com/AVKrivenko/WeatherSite/blob/main/weather.png)
 weather.png
 # Getting Started with Create React App
 
